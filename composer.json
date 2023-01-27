@@ -9,7 +9,7 @@
     "autoload": {
         "psr-4": {
             "Emerald\\Orm\\": "src/",
-            "Tests": "tests/"
+            "Tests\\": "tests/"
         }
     },
     "authors": [
