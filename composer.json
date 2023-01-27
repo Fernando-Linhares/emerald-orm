@@ -1,0 +1,22 @@
+{
+    "name": "emerald/orm",
+    "description": "Orm to access database",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Emerald\\Orm\\": "src/",
+            "Tests": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Linhares Silvestre"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
